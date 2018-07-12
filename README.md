@@ -1,6 +1,6 @@
 # Mapa de comercios de la Ciudad de Córdoba
 
-Mapa y buscador por actividad comercial (según [Ordenanza Tarifaria](https://modernizacionmunicba.github.io/ordenanza-tarifaria-anual-ciudad-de-cordoba/#b-a-0-0) de todos los comercios habilitados de la Ciudad de Córdoba.
+Mapa y buscador por actividad comercial (según [Ordenanza Tarifaria](https://modernizacionmunicba.github.io/ordenanza-tarifaria-anual-ciudad-de-cordoba/#b-a-0-0)) de todos los comercios habilitados de la Ciudad de Córdoba.
 
 ## Estado del desarrollo
 
