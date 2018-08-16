@@ -12,7 +12,7 @@ Esta en estado **ALFA**, en proceso de planificación y desarrollo inicial.
 
 ## Datos
 
-Lista de 58.000 comercios de la Ciudad de Córdoba a diciembre de 2016 provista por la oficina de sistemas.  
+Lista de comercios de la Ciudad de Córdoba provista por las oficinas de sistemas, habilitacion de negocios y sistema tributario.  
 
 Se usó la **geolocalización** basada en el sistema parcelario
 
